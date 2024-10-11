@@ -1,0 +1,11 @@
+[default.general]
+chip = "STM32G031F6Px"
+
+[default.rtt]
+enabled = false
+
+[default.gdb]
+enabled = true
+
+[default.reset]
+halt_afterwards = true
